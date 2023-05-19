@@ -248,7 +248,7 @@ Now that we know where the issues exist and how to fix them, we're going to modi
   TBD-step-4-notes.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Prevent Vulnerabilities in the Pull Request</h2></summary>
 
 _Nicely done!  You finished Step 3: Fix Security Vulnerabilites! :partying_face:_
