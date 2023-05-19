@@ -106,7 +106,7 @@ In this first step, we'll be learning more about CodeQL and how to use it to sec
   TBD-step-2-notes.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Review and Triage CodeQL Alerts</h2></summary>
 
 _Way to go! You got CodeQL running! :tada:_
@@ -193,7 +193,7 @@ This last step will show you how to create a GitHub Issue to track the work that
   TBD-step-3-notes.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Fix Security Vulnerabilites</h2></summary>
 
 _Nice work finishing Step 2: Reviewing and Triaging CodeQL Alerts :sparkles:_
