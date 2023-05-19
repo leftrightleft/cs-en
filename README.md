@@ -193,7 +193,7 @@ This last step will show you how to create a GitHub Issue to track the work that
   TBD-step-3-notes.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Fix Security Vulnerabilites</h2></summary>
 
 _Nice work finishing Step 2: Reviewing and Triaging CodeQL Alerts :sparkles:_
@@ -248,7 +248,7 @@ Now that we know where the issues exist and how to fix them, we're going to modi
   TBD-step-4-notes.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Prevent Vulnerabilities in the Pull Request</h2></summary>
 
 _Nicely done!  You finished Step 3: Fix Security Vulnerabilites! :partying_face:_
